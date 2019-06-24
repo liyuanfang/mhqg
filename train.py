@@ -13,7 +13,7 @@ import torch.optim as optim
 import torch.utils.data
 import transformer.Constants as Constants
 from dataset import QGDataset, paired_collate_fn
-from transformer.Models import Transformer
+from transformer.Model import Transformer
 from transformer.Optim import ScheduledOptim
 
 def cal_performance(pred, gold, smoothing=False):
