@@ -1,0 +1,1000 @@
+what is the place of death of entity_1 's father 's father ? </s>
+what is the versions of tracks of entity_1 's versions ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the artist of release of entity_1 's release ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the recording of recording of entity_1 's versions ? </s>
+what is the teams of entity_1 's nationality ? </s>
+what is the name of the sex of entity_1 's darling ? </s>
+what is the entity_1 's track_list 's appears_in_topic_gallery ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the sex of entity_1 's parent ? </s>
+what did entity_1 's wife die ? </s>
+what is the artist of recording of entity_1 's recording ? </s>
+what is the name of the husband of entity_1 's husband ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the nationality of entity_1 's spouse 's dad ? </s>
+what is the nation of entity_1 's parent 's daughter ? </s>
+what is the nation of entity_1 's husband 's husband ? </s>
+what is the recordings of recordings of entity_1 's recordings ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the tracks of tracks of entity_1 's nationality ? </s>
+what is the place of birth of entity_1 's mom 's mother ? </s>
+what is the entity_1 's place_of_birth 's canonical_version ? </s>
+what is the appears_in_topic_gallery of entity_1 's place_of_birth 's appears_in_topic_gallery ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the cause of death of entity_1 's father ? </s>
+what is the name of the children of entity_1 's daughter ? </s>
+what is the artist of release of entity_1 's track ? </s>
+what is the entity_1 's wife 's ethnicity ? </s>
+what is the place of birth of entity_1 's children 's children ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the entity_1 's album 's album ? </s>
+what is the recording of entity_1 's recording 's recording ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the entity_1 's album 's album ? </s>
+what is the name of the parents of entity_1 's wife ? </s>
+what is the entity_1 's husband 's religious ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the releases of releases of entity_1 's releases ? </s>
+what is the name of the place of death of entity_1 's father ? </s>
+what is the tracks of entity_1 's tracks 's tracks ? </s>
+what is the name of the father of entity_1 's daughter ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the nationality of entity_1 's kid 's mother ? </s>
+what is the religious of entity_1 's parent ? </s>
+what is the place of death of entity_1 's father 's daughter ? </s>
+what is the place of place of place of entity_1 's place ? </s>
+what is the editions of editions of entity_1 's editions ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the people_born_here of entity_1 's containedby ? </s>
+what is the recording of recording of entity_1 's genre ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the canonical_version of canonical_version of entity_1 's place_of_birth ? </s>
+what is the entity_1 's subjects 's recording ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the name of the daughter of offspring of entity_1 's husband ? </s>
+what is the place of release of release of entity_1 's track_list ? </s>
+what is the job of entity_1 's child ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+where does entity_1 's child work ? </s>
+what is the tracks of tracks of entity_1 's track ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the nationality of entity_1 's daughter 's mother ? </s>
+what is the appears_in_topic_gallery of entity_1 's place_of_birth 's appears_in_topic_gallery ? </s>
+what is the nation of entity_1 's wife ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the releases of tracks of entity_1 's tracks ? </s>
+what is the name of the husband of wife of entity_1 's husband ? </s>
+what is the nationality of entity_1 's parent 's mother ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the place of birth of entity_1 's wife 's darling ? </s>
+what is the name of the profession of entity_1 's father ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the name of the couple of entity_1 's dad ? </s>
+what is the tracks of entity_1 's nationality ? </s>
+what is the recording of recording of entity_1 's track_list ? </s>
+what is the entity_1 's child 's child ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the releases of releases of entity_1 's releases ? </s>
+what is the nationality of entity_1 's daughter 's daughter ? </s>
+what is the release of entity_1 's track 's release ? </s>
+what is the nationality of entity_1 's daughter 's mother ? </s>
+what is the name of the parents of entity_1 's husband ? </s>
+what is the name of the husband of entity_1 's husband ? </s>
+what is the sex of entity_1 's child ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's tracks 's has_value ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the place of birth of entity_1 's mom 's mother ? </s>
+what is the place of birth of entity_1 's wife ? </s>
+what is the entity_1 's husband 's darling ? </s>
+what is the sex of entity_1 's child ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the name of the cause of death of entity_1 's father ? </s>
+what is the gender of entity_1 's child ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the versions of versions of entity_1 's recording ? </s>
+what is the name of the sex of entity_1 's mother ? </s>
+what is the name of the gender of darling of entity_1 's darling ? </s>
+what is the entity_1 's platform 's games ? </s>
+what is the people_born_here of entity_1 's containedby ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the place of birth of entity_1 's daughter 's mother ? </s>
+what is the entity_1 's recording 's tracks ? </s>
+what is the name of the kid of entity_1 's husband ? </s>
+what is the canonical_version of canonical_version of entity_1 's place_of_birth ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the place of birth of entity_1 's father 's daughter ? </s>
+what is the artist of entity_1 's recording 's artist ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the place of place of place of entity_1 's place ? </s>
+what is the name of the husband of entity_1 's kid ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the recordings of entity_1 's recordings 's recordings ? </s>
+what is the location of entity_1 's daughter 's husband ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the appears_in_topic_gallery of appears_in_topic_gallery of entity_1 's place_of_death ? </s>
+what is the cause of death of entity_1 's darling 's husband ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the name of the religious of entity_1 's father ? </s>
+what is the place of birth of entity_1 's children 's mother ? </s>
+what is the nation of entity_1 's dad 's husband ? </s>
+what is the entity_1 's child 's parents ? </s>
+what is the release of release of entity_1 's release ? </s>
+what is the tracks of entity_1 's track_list ? </s>
+what is the entity_1 's child 's profession ? </s>
+what is the entity_1 's kid 's profession ? </s>
+what is the recording of recording of entity_1 's father ? </s>
+what is the entity_1 's track 's recording ? </s>
+what is the name of the cause of death of entity_1 's father ? </s>
+what is the editions of editions of entity_1 's editions ? </s>
+what is the name of the parents of entity_1 's father ? </s>
+what did entity_1 's offspring die ? </s>
+what is the name of the cause of death of entity_1 's daughter ? </s>
+what is the place of birth of entity_1 's daughter 's darling ? </s>
+what did entity_1 's offspring die ? </s>
+what is the nation of entity_1 's dad 's husband ? </s>
+what is the name of the husband of entity_1 's kid ? </s>
+what is the place of birth of entity_1 's children 's mother ? </s>
+what is the canonical_version of tracks of entity_1 's canonical_version ? </s>
+what is the recordings of recordings of entity_1 's track_list ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the name of the darling of wife of entity_1 's couple ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the location of entity_1 's parent 's daughter ? </s>
+what is the organization of entity_1 's parent ? </s>
+what is the name of the children of entity_1 's daughter ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the release of entity_1 's recording 's release ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the name of the parents of entity_1 's wife ? </s>
+what is the name of the husband of wife of entity_1 's wife ? </s>
+what is the tracks of entity_1 's tracks 's song ? </s>
+what is the cause of death of entity_1 's darling ? </s>
+what is the place of birth of entity_1 's father 's daughter ? </s>
+what is the place of death of entity_1 's daughter 's children ? </s>
+what is the cause of death of entity_1 's father 's father ? </s>
+what is the recordings of tracks of entity_1 's tracks ? </s>
+what is the entity_1 's country 's artist ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the teams of entity_1 's nationality ? </s>
+what is the name of the children of entity_1 's daughter ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the name of the children of entity_1 's daughter ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the entity_1 's lyricist 's label ? </s>
+what is the name of the religious of entity_1 's father ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the song of song of entity_1 's nationality ? </s>
+what is the entity_1 's parent 's child ? </s>
+what did entity_1 's offspring die ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the sex of entity_1 's mother ? </s>
+what is the name of the religion of entity_1 's daughter ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's wife 's ethnicity ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the nation of entity_1 's father 's daughter ? </s>
+what is the notable_types of recording of entity_1 's recording ? </s>
+what is the nation of entity_1 's parent 's daughter ? </s>
+what is the release of entity_1 's song 's song ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the husband of wife of entity_1 's wife ? </s>
+what is the organization of entity_1 's parent ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the name of the job of entity_1 's daughter ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the tracks of tracks of entity_1 's recording ? </s>
+what is the name of the husband of wife of entity_1 's husband ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the name of the husband of wife of entity_1 's husband ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the sex of entity_1 's daughter ? </s>
+what is the entity_1 's nationality 's recording ? </s>
+what is the name of the religion of entity_1 's daughter ? </s>
+what is the works of entity_1 's organism_type ? </s>
+what is the releases of release of entity_1 's releases ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the name of the parents of entity_1 's father ? </s>
+what is the entity_1 's mom 's cause of death ? </s>
+what is the place of birth of entity_1 's daughter 's children ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the nation of entity_1 's wife ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the release of song of entity_1 's song ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the name of the place of death of entity_1 's father ? </s>
+what is the entity_1 's release 's track ? </s>
+what is the book of entity_1 's place_of_birth 's book ? </s>
+what is the song of entity_1 's song ? </s>
+what is the versions of versions of entity_1 's track_list ? </s>
+what is the entity_1 's active_moiety_of_drug 's active_moiety_of_drug ? </s>
+what is the name of the location of darling of entity_1 's husband ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the track_list of track_list of entity_1 's track_list ? </s>
+what is the nationality of entity_1 's mom 's mother ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the name of the job of darling of entity_1 's couple ? </s>
+what is the canonical_version of entity_1 's place_of_birth 's canonical_version ? </s>
+what is the name of the religious of entity_1 's husband ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the recordings of tracks of entity_1 's tracks ? </s>
+what is the artist of recording of entity_1 's recording ? </s>
+what is the location of entity_1 's kid 's mother ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the father of entity_1 's daughter ? </s>
+what is the name of the parents of entity_1 's kid ? </s>
+what is the nationality of entity_1 's parent 's mother ? </s>
+what is the nationality of entity_1 's spouse 's mother ? </s>
+what is the entity_1 's father 's profession ? </s>
+what is the name of the job of entity_1 's father ? </s>
+what is the place of death of entity_1 's father 's father ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the sex of entity_1 's mother ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the name of the kid of entity_1 's husband ? </s>
+what is the organization of entity_1 's parent ? </s>
+what is the nation of entity_1 's daughter 's kid ? </s>
+what is the religious of entity_1 's parent ? </s>
+what is the place of death of entity_1 's father 's daughter ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the sex of entity_1 's darling ? </s>
+what is the recording of entity_1 's place_of_birth 's recording ? </s>
+what is the appears_in_topic_gallery of entity_1 's appears_in_topic_gallery ? </s>
+what is the name of the cause of death of entity_1 's father ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's song 's tracks ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the nation of entity_1 's father 's daughter ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the name of the job of darling of entity_1 's couple ? </s>
+what is the notable_types of recording of entity_1 's recording ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the place of birth of entity_1 's darling 's offspring ? </s>
+what is the place of birth of entity_1 's father 's daughter ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the place of birth of entity_1 's father 's daughter ? </s>
+what is the entity_1 's mom 's child ? </s>
+what is the primary_release of primary_release of entity_1 's primary_release ? </s>
+what is the canonical_version of entity_1 's place_of_birth ? </s>
+what is the nation of entity_1 's wife ? </s>
+what is the people_born_here of entity_1 's people_born_here ? </s>
+what is the name of the sex of entity_1 's dad ? </s>
+what is the entity_1 's wife 's ethnicity ? </s>
+what is the name of the parents of entity_1 's father ? </s>
+what is the entity_1 's place_of_birth 's teams ? </s>
+what is the album of entity_1 's album 's album ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the album of entity_1 's album 's album ? </s>
+what is the releases of releases of entity_1 's releases ? </s>
+what is the entity_1 's award_nominations 's award_nominations ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's child 's ethnicity ? </s>
+what is the entity_1 's kid 's gender ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the entity_1 's album 's release ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the name of the husband of wife of entity_1 's couple ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the gender of darling of entity_1 's darling ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the name of the institution of entity_1 's kid ? </s>
+what is the artist of entity_1 's genre ? </s>
+what is the appears_in_topic_gallery of entity_1 's place_of_birth 's appears_in_topic_gallery ? </s>
+what is the place of birth of entity_1 's father 's husband ? </s>
+what is the entity_1 's song 's song ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the nation of entity_1 's parent ? </s>
+what is the recording of entity_1 's recording ? </s>
+what is the entity_1 's track 's label ? </s>
+what is the tracks of tracks of entity_1 's nationality ? </s>
+what is the name of the husband of wife of entity_1 's wife ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the nation of entity_1 's wife ? </s>
+what is the cause of death of entity_1 's husband 's father ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the entity_1 's kid 's gender ? </s>
+what is the name of the sex of entity_1 's darling ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the nation of entity_1 's father 's daughter ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the place of death of entity_1 's father 's daughter ? </s>
+what is the name of the daughter of entity_1 's daughter ? </s>
+what is the name of the institution of entity_1 's kid ? </s>
+what is the has_value of entity_1 's tracks 's tracks ? </s>
+what is the name of the husband of darling of entity_1 's husband ? </s>
+what is the recording of recording of entity_1 's country ? </s>
+what is the entity_1 's child 's child ? </s>
+what did entity_1 's wife die ? </s>
+what is the entity_1 's father 's profession ? </s>
+what is the place of release of release of entity_1 's track_list ? </s>
+what is the location of entity_1 's parent 's husband ? </s>
+what is the place of birth of entity_1 's mom 's mother ? </s>
+what is the organization of entity_1 's parent ? </s>
+what is the name of the religion of entity_1 's parent ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the gender of entity_1 's child ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the nation of entity_1 's parent 's daughter ? </s>
+what is the place of birth of entity_1 's husband 's darling ? </s>
+what is the profession of entity_1 's father ? </s>
+what is the song of song of entity_1 's track ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the name of the parents of entity_1 's father ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the recording of recording of entity_1 's track_list ? </s>
+what is the name of the husband of entity_1 's kid ? </s>
+what is the releases of recording of entity_1 's recording ? </s>
+what is the song of song of entity_1 's nationality ? </s>
+what is the place of death of entity_1 's daughter 's father ? </s>
+what is the notable_types of recording of entity_1 's award_nominations ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the release of release of entity_1 's track_list ? </s>
+what is the tracks of tracks of entity_1 's track ? </s>
+what is the release of entity_1 's track_list ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the entity_1 's kid 's gender ? </s>
+what is the name of the institution of entity_1 's kid ? </s>
+what is the recording of entity_1 's track_list ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the appears_in_topic_gallery of appears_in_topic_gallery of entity_1 's track_list ? </s>
+what is the artist of appears_in_topic_gallery of entity_1 's appears_in_topic_gallery ? </s>
+what is the gender of entity_1 's darling 's parents ? </s>
+what is the entity_1 's versions 's versions ? </s>
+what is the recording of recording of entity_1 's tracks ? </s>
+what is the artist of entity_1 's genre ? </s>
+what is the name of the children of entity_1 's daughter ? </s>
+what is the name of the parents of entity_1 's parent ? </s>
+what is the place of birth of entity_1 's mom 's mother ? </s>
+what is the nation of entity_1 's wife ? </s>
+what is the place of death of entity_1 's daughter 's children ? </s>
+what is the tracks of tracks of entity_1 's track_list ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the release of song of entity_1 's track ? </s>
+what is the location of entity_1 's parent 's daughter ? </s>
+what is the nation of entity_1 's wife ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the gender of entity_1 's darling 's parents ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the entity_1 's nationality 's recording ? </s>
+what is the artist of recordings of entity_1 's recordings ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the teams of entity_1 's nationality ? </s>
+what is the entity_1 's nationality 's song ? </s>
+what is the release of song of entity_1 's track ? </s>
+what is the teams of entity_1 's country ? </s>
+what is the name of the parents of entity_1 's husband ? </s>
+what is the versions of entity_1 's versions ? </s>
+what is the name of the husband of wife of entity_1 's husband ? </s>
+what is the place of death of entity_1 's darling 's husband ? </s>
+what is the release of entity_1 's song 's song ? </s>
+what is the organization of entity_1 's wife ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the name of the husband of wife of entity_1 's couple ? </s>
+what is the entity_1 's mom 's parents ? </s>
+what is the name of the parents of entity_1 's kid ? </s>
+what is the nation of entity_1 's parent 's daughter ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the job of entity_1 's daughter ? </s>
+what is the entity_1 's parent 's child ? </s>
+what is the name of the parents of entity_1 's wife ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the parents of entity_1 's parent ? </s>
+what is the artist of song of entity_1 's song ? </s>
+what is the name of the institution of entity_1 's parent ? </s>
+what is the song of song of entity_1 's country ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the place of death of entity_1 's darling 's offspring ? </s>
+what is the release of song of entity_1 's track ? </s>
+what is the name of the job of entity_1 's father ? </s>
+what is the song of song of entity_1 's song ? </s>
+what is the name of the parents of entity_1 's wife ? </s>
+what is the release of release of entity_1 's artist ? </s>
+what is the name of the husband of entity_1 's husband ? </s>
+what is the nationality of entity_1 's father 's daughter ? </s>
+what did entity_1 's offspring die ? </s>
+what is the canonical_version of entity_1 's place_of_death 's canonical_version ? </s>
+what is the place of place of place of entity_1 's place ? </s>
+what is the active_moiety_of_drug of active_moiety_of_drug of entity_1 's active_moiety_of_drug ? </s>
+what is the name of the religion of entity_1 's daughter ? </s>
+what is the primary_release of primary_release of entity_1 's nationality ? </s>
+what is the name of the job of entity_1 's father ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the recording of recording of entity_1 's tracks ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the name of the sex of entity_1 's mother ? </s>
+what is the nation of entity_1 's wife ? </s>
+what is the versions of entity_1 's versions ? </s>
+what is the people_born_here of entity_1 's containedby ? </s>
+what is the name of the husband of entity_1 's parent ? </s>
+what is the name of the religion of entity_1 's father ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the offspring of entity_1 's daughter ? </s>
+what is the name of the parents of entity_1 's father ? </s>
+what is the entity_1 's child 's child ? </s>
+what is the artist of entity_1 's genre ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the name of the parents of entity_1 's wife ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's tracks 's tracks ? </s>
+what is the canonical_version of canonical_version of entity_1 's place_of_death ? </s>
+what is the song of song of entity_1 's track_list ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the name of the parents of entity_1 's father ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the location of entity_1 's daughter 's kid ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the artist of tracks of entity_1 's tracks ? </s>
+what is the place of birth of entity_1 's darling 's daughter ? </s>
+what is the release of entity_1 's track 's release ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the recording of recording of entity_1 's track ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the nation of entity_1 's husband 's daughter ? </s>
+what is the place of death of entity_1 's father 's daughter ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the entity_1 's mom 's parents ? </s>
+what is the artist of release of entity_1 's track_list ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the recording of recording of entity_1 's nationality ? </s>
+what is the entity_1 's father 's profession ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the sex of entity_1 's kid ? </s>
+what is the release of release of entity_1 's recordings ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the name of the parents of entity_1 's husband ? </s>
+what is the name of the husband of entity_1 's husband ? </s>
+what is the name of the parents of entity_1 's wife ? </s>
+what is the entity_1 's album 's album ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the place of birth of entity_1 's children 's children ? </s>
+what is the notable_types of entity_1 's canonical_version ? </s>
+what is the artist of release of entity_1 's release ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the entity_1 's containedby 's recording ? </s>
+what is the recording of recording of entity_1 's netflix_genres ? </s>
+what is the entity_1 's husband 's religious ? </s>
+what is the canonical_version of entity_1 's place_of_birth 's canonical_version ? </s>
+what is the name of the cause of death of entity_1 's father ? </s>
+what is the place of death of entity_1 's darling 's offspring ? </s>
+what is the entity_1 's tracks 's notable_types ? </s>
+what is the name of the institution of entity_1 's parent ? </s>
+what is the artist of release of entity_1 's release ? </s>
+what is the notable_types of tracks of entity_1 's tracks ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the name of the religious of entity_1 's father ? </s>
+what is the nationality of entity_1 's father 's daughter ? </s>
+what is the nation of entity_1 's father 's daughter ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the entity_1 's child 's profession ? </s>
+what is the entity_1 's father 's profession ? </s>
+what is the notable_types of recording of entity_1 's recording ? </s>
+what is the entity_1 's father 's profession ? </s>
+what is the name of the job of darling of entity_1 's couple ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the track of release of entity_1 's track ? </s>
+what is the recordings of recordings of entity_1 's recordings ? </s>
+what is the recording of recording of entity_1 's genre ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the entity_1 's child 's parents ? </s>
+what did entity_1 's offspring die ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the nationality of entity_1 's child ? </s>
+what is the artist of release of entity_1 's release ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the people_born_here of entity_1 's containedby ? </s>
+what is the name of the husband of wife of entity_1 's husband ? </s>
+what is the artist of entity_1 's genre ? </s>
+what is the sex of entity_1 's child ? </s>
+what is the releases of tracks of entity_1 's tracks ? </s>
+what is the notable_types of recording of entity_1 's recording ? </s>
+what is the recording of recording of entity_1 's place_of_birth ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the book of entity_1 's place_of_birth 's book ? </s>
+what is the gender of entity_1 's darling 's parents ? </s>
+what is the name of the sex of entity_1 's darling ? </s>
+what is the place of birth of entity_1 's child ? </s>
+what is the entity_1 's child 's profession ? </s>
+what is the entity_1 's nationality 's recording ? </s>
+what did entity_1 's offspring die ? </s>
+what is the entity_1 's kid 's gender ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's child 's child ? </s>
+what is the place of death of entity_1 's father 's father ? </s>
+what is the releases of releases of entity_1 's releases ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the cause of death of entity_1 's daughter 's father ? </s>
+what is the organization of entity_1 's parent ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what did entity_1 's offspring die ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the versions of versions of entity_1 's tracks ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the name of the sex of entity_1 's darling ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the place of birth of entity_1 's father 's daughter ? </s>
+what is the sex of entity_1 's child ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the institution of entity_1 's parent ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the job of entity_1 's daughter ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the artist of artist of entity_1 's artist ? </s>
+what is the entity_1 's parent 's child ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the artist of entity_1 's track_list ? </s>
+what is the name of the husband of entity_1 's kid ? </s>
+where does entity_1 's child work ? </s>
+what is the song of song of entity_1 's track_list ? </s>
+what is the album of album of entity_1 's album ? </s>
+what did entity_1 's offspring die ? </s>
+what is the entity_1 's nationality 's recording ? </s>
+what is the name of the organization of wife of entity_1 's wife ? </s>
+what is the entity_1 's mom 's parents ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the entity_1 's track_list 's recording ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the entity_1 's tracks 's tracks ? </s>
+what is the nation of entity_1 's husband 's husband ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the entity_1 's track_list 's release ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the album of entity_1 's album 's album ? </s>
+what is the name of the gender of entity_1 's daughter ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the name of the kid of entity_1 's kid ? </s>
+what is the teams of entity_1 's country ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's child 's parents ? </s>
+what is the release of song of entity_1 's song ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the location of entity_1 's mother 's mother ? </s>
+what is the artist of entity_1 's track_list ? </s>
+what is the name of the gender of darling of entity_1 's darling ? </s>
+what is the nation of entity_1 's parent 's daughter ? </s>
+what is the entity_1 's parent 's wife ? </s>
+what is the place of birth of entity_1 's father 's daughter ? </s>
+what is the tracks of tracks of entity_1 's recording ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the nationality of entity_1 's kid 's mother ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the name of the parents of entity_1 's parent ? </s>
+what is the place of birth of entity_1 's mom 's mother ? </s>
+what is the artist of release of entity_1 's track_list ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the entity_1 's husband 's darling ? </s>
+what is the place of birth of entity_1 's daughter 's mother ? </s>
+what is the nation of entity_1 's father 's daughter ? </s>
+what is the album_content_type of release of entity_1 's song ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the notable_types of recording of entity_1 's recording ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the sex of entity_1 's darling ? </s>
+what is the recording of recording of entity_1 's genre ? </s>
+what is the entity_1 's platform 's games ? </s>
+what is the entity_1 's recording 's versions ? </s>
+what is the name of the husband of entity_1 's kid ? </s>
+what is the primary_release of primary_release of entity_1 's country ? </s>
+what is the name of the offspring of entity_1 's daughter ? </s>
+what is the name of the parents of entity_1 's wife ? </s>
+what is the name of the father of entity_1 's daughter ? </s>
+what is the place of birth of entity_1 's wife ? </s>
+what is the tracks of tracks of entity_1 's nationality ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the nationality of entity_1 's daughter 's daughter ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the place of entity_1 's place 's place ? </s>
+what is the nation of entity_1 's wife ? </s>
+what is the related_type of entity_1 's permission 's related_type ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the entity_1 's releases 's releases ? </s>
+what is the name of the job of entity_1 's daughter ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the daughter of entity_1 's husband ? </s>
+what is the nation of entity_1 's wife ? </s>
+what is the entity_1 's versions 's versions ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's parent 's wife ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the tracks of entity_1 's nationality ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the nation of entity_1 's dad 's husband ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the name of the ethnicity of entity_1 's child ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the name of the husband of entity_1 's parent ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the entity_1 's child 's profession ? </s>
+what is the track_list of track_list of entity_1 's track_list ? </s>
+what is the entity_1 's parent 's child ? </s>
+what is the name of the religious of husband of entity_1 's husband ? </s>
+what is the name of the job of entity_1 's daughter ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the sex of entity_1 's child ? </s>
+what is the name of the parents of entity_1 's kid ? </s>
+what is the nation of entity_1 's husband 's husband ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the gender of entity_1 's daughter ? </s>
+what is the entity_1 's award_nominations 's award_nominations ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the entity_1 's child 's parents ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the place of death of entity_1 's daughter 's father ? </s>
+what is the name of the offspring of entity_1 's husband ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the artist of entity_1 's track_list 's release ? </s>
+what is the sex of entity_1 's child ? </s>
+what is the versions of versions of entity_1 's recording ? </s>
+where does entity_1 's child work ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the nationality of entity_1 's daughter 's mother ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the artist of recordings of entity_1 's recordings ? </s>
+what is the recording of recording of entity_1 's releases ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the nation of entity_1 's parent 's daughter ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's canonical_version 's canonical_version ? </s>
+what is the name of the sex of entity_1 's mother ? </s>
+what is the entity_1 's child 's child ? </s>
+what is the recording of entity_1 's netflix_genres 's recording ? </s>
+what is the releases of recording of entity_1 's artist ? </s>
+what is the name of the ethnicity of entity_1 's kid ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the place of death of entity_1 's wife 's father ? </s>
+what is the release of entity_1 's release ? </s>
+what is the track of release of entity_1 's track_list ? </s>
+what is the entity_1 's nationality 's song ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the name of the kid of entity_1 's husband ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the artist of entity_1 's nationality ? </s>
+what is the releases of recording of entity_1 's track ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the song of song of entity_1 's song ? </s>
+what is the recording of entity_1 's place_of_birth 's recording ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the canonical_version of entity_1 's place_of_birth ? </s>
+what is the entity_1 's mom 's parents ? </s>
+what is the primary_release of primary_release of entity_1 's primary_release ? </s>
+what is the nation of entity_1 's parent ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the name of the sex of entity_1 's mother ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the name of the institution of entity_1 's children ? </s>
+what is the name of the daughter of entity_1 's mom ? </s>
+what is the notable_types of entity_1 's recordings 's recordings ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the location of entity_1 's parent 's husband ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the nation of entity_1 's father 's daughter ? </s>
+what is the recording of recording of entity_1 's releases ? </s>
+what is the versions of entity_1 's versions ? </s>
+what is the artist of entity_1 's genre ? </s>
+what is the name of the sex of entity_1 's kid ? </s>
+what is the notable_types of entity_1 's award_nominations ? </s>
+what is the entity_1 's album 's album ? </s>
+what is the name of the religious of husband of entity_1 's parent ? </s>
+what is the entity_1 's nationality 's olympic_games_contested ? </s>
+what did entity_1 's offspring die ? </s>
+what is the entity_1 's father 's profession ? </s>
+what is the entity_1 's father 's profession ? </s>
+what is the tracks of entity_1 's tracks 's tracks ? </s>
+what is the name of the parents of entity_1 's parent ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the faith of entity_1 's parent ? </s>
+what is the releases of releases of entity_1 's releases ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the daughter of entity_1 's husband ? </s>
+what is the gender of entity_1 's darling 's parents ? </s>
+what is the entity_1 's editions 's editions ? </s>
+what is the place of birth of entity_1 's darling 's offspring ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the notable_types of entity_1 's appears_in_topic_gallery 's appears_in_topic_gallery ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the song of entity_1 's track_list ? </s>
+what is the name of the organization of wife of entity_1 's wife ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the entity_1 's versions 's versions ? </s>
+what is the teams of entity_1 's nationality ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the parents of entity_1 's kid ? </s>
+what is the book of entity_1 's book 's appears_in_topic_gallery ? </s>
+what is the release of song of entity_1 's track ? </s>
+what is the name of the husband of entity_1 's parent ? </s>
+what is the cause of death of entity_1 's father ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the entity_1 's tracks 's tracks ? </s>
+what is the tracks of entity_1 's track ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the place of birth of entity_1 's children 's mother ? </s>
+what is the teams of entity_1 's nationality ? </s>
+what is the notable_types of canonical_version of entity_1 's canonical_version ? </s>
+what is the versions of versions of entity_1 's versions ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the husband of entity_1 's husband ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the nationality of entity_1 's daughter 's mother ? </s>
+what is the nationality of entity_1 's kid 's mother ? </s>
+what is the place of birth of entity_1 's child ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the name of the parents of entity_1 's father ? </s>
+what is the name of the husband of wife of entity_1 's husband ? </s>
+what is the place of birth of entity_1 's father 's daughter ? </s>
+what is the job of entity_1 's child ? </s>
+what is the name of the institution of entity_1 's parent ? </s>
+what is the name of the husband of entity_1 's daughter ? </s>
+what is the canonical_version of canonical_version of entity_1 's place_of_birth ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the release of recording of entity_1 's track ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's nationality 's recording ? </s>
+what is the name of the husband of entity_1 's kid ? </s>
+what is the place of birth of entity_1 's father 's daughter ? </s>
+what is the location of entity_1 's husband ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the teams of entity_1 's nationality ? </s>
+what is the track of release of entity_1 's track ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the release of recording of entity_1 's recording ? </s>
+what is the entity_1 's kid 's gender ? </s>
+what is the organization of entity_1 's wife ? </s>
+what is the tracks of entity_1 's tracks 's tracks ? </s>
+what is the name of the religion of entity_1 's daughter ? </s>
+what is the name of the offspring of entity_1 's daughter ? </s>
+what is the canonical_version of entity_1 's place_of_birth 's place_of_birth ? </s>
+what is the release of entity_1 's track ? </s>
+what is the recordings of recordings of entity_1 's track_list ? </s>
+what is the entity_1 's recording 's artist ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the religion of entity_1 's daughter ? </s>
+what is the release of entity_1 's recording ? </s>
+what is the appears_in_topic_gallery of appears_in_topic_gallery of entity_1 's place_of_death ? </s>
+what is the entity_1 's containedby 's people_born_here ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the contains of entity_1 's nationality ? </s>
+what is the release of entity_1 's track_list 's recording ? </s>
+what did entity_1 's darling die ? </s>
+what is the people_born_here of people_born_here of entity_1 's people_born_here ? </s>
+what is the entity_1 's parent 's child ? </s>
+what is the name of the institution of entity_1 's children ? </s>
+what is the name of the sex of entity_1 's daughter ? </s>
+what is the tracks of tracks of entity_1 's track ? </s>
+what is the teams of entity_1 's country ? </s>
+what is the cause of death of entity_1 's father ? </s>
+what is the name of the husband of entity_1 's parent ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the notable_types of entity_1 's track_list ? </s>
+what is the organization of entity_1 's parent ? </s>
+what is the place of birth of entity_1 's wife ? </s>
+what is the place of birth of entity_1 's wife 's darling ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's nationality 's contains ? </s>
+what is the entity_1 's album 's album ? </s>
+what is the nationality of entity_1 's daughter 's daughter ? </s>
+what is the name of the sex of entity_1 's mother ? </s>
+what is the organization of entity_1 's parent ? </s>
+what is the name of the ethnicity of entity_1 's kid ? </s>
+what is the name of the parents of entity_1 's parent ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the place of birth of entity_1 's child ? </s>
+what is the cause of death of entity_1 's father ? </s>
+what is the location of entity_1 's kid 's husband ? </s>
+what is the sex of entity_1 's child ? </s>
+what is the entity_1 's album 's album ? </s>
+what is the entity_1 's tracks 's tracks ? </s>
+what is the artist of song of entity_1 's song ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the location of entity_1 's mother ? </s>
+what is the name of the daughter of entity_1 's husband ? </s>
+what is the recording of recording of entity_1 's nationality ? </s>
+what is the name of the religious of husband of entity_1 's parent ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the entity_1 's nationality 's song ? </s>
+what is the name of the cause of death of entity_1 's father ? </s>
+what is the name of the husband of wife of entity_1 's husband ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the place of birth of entity_1 's children 's children ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the recording of recording of entity_1 's place_of_birth ? </s>
+what is the place of death of entity_1 's daughter 's children ? </s>
+what is the sex of entity_1 's parent ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the artist of recording of entity_1 's recording ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the entity_1 's mom 's parents ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the name of the religious of husband of entity_1 's parent ? </s>
+what is the canonical_version of canonical_version of entity_1 's place_of_birth ? </s>
+what is the name of the parents of entity_1 's kid ? </s>
+what is the notable_types of release of entity_1 's track_list ? </s>
+what is the people_born_here of entity_1 's people_born_here ? </s>
+what is the tracks of song of entity_1 's song ? </s>
+what is the release of entity_1 's track ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the name of the sex of entity_1 's darling ? </s>
+what is the gender of entity_1 's darling 's parents ? </s>
+what is the releases of releases of entity_1 's releases ? </s>
+what is the religious of husband of entity_1 's husband ? </s>
+what is the song of song of entity_1 's song ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the place of birth of entity_1 's wife 's darling ? </s>
+what is the tracks of entity_1 's containedby 's tracks ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the track of release of entity_1 's track ? </s>
+what is the entity_1 's award_nominations 's award_nominations ? </s>
+what is the name of the sex of entity_1 's darling ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the recording of recording of entity_1 's nationality ? </s>
+what is the notable_types of entity_1 's track ? </s>
+what is the name of the sex of entity_1 's daughter ? </s>
+what is the nation of entity_1 's parent 's daughter ? </s>
+what is the darling of entity_1 's wife ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the entity_1 's child 's profession ? </s>
+what is the notable_types of entity_1 's tracks ? </s>
+what is the teams of entity_1 's nationality ? </s>
+what is the name of the cause of death of entity_1 's daughter ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the album of album of entity_1 's album ? </s>
+what is the nation of entity_1 's father 's daughter ? </s>
+what is the entity_1 's tracks 's tracks ? </s>
+what is the recording of recording of entity_1 's nationality ? </s>
+what is the entity_1 's parent 's wife ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the entity_1 's artist 's artist ? </s>
+what is the name of the gender of darling of entity_1 's darling ? </s>
+what is the faith of entity_1 's husband ? </s>
+what is the canonical_version of canonical_version of entity_1 's place_of_birth ? </s>
+what is the location of entity_1 's husband ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the place of birth of entity_1 's father 's daughter ? </s>
+what is the place of death of entity_1 's daughter 's children ? </s>
+what is the artist of recording of entity_1 's recording ? </s>
+what is the canonical_version of entity_1 's track_list 's canonical_version ? </s>
+what is the nation of entity_1 's daughter 's kid ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the name of the institution of entity_1 's kid ? </s>
+what is the job of entity_1 's child ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the song of song of entity_1 's recording ? </s>
+what is the place of death of entity_1 's father 's husband ? </s>
+what is the name of the religious of husband of entity_1 's parent ? </s>
+what is the place of birth of entity_1 's children 's children ? </s>
+what is the releases of recording of entity_1 's recording ? </s>
+what is the notable_types of tracks of entity_1 's tracks ? </s>
+what is the nationality of entity_1 's dad 's husband ? </s>
+what is the place of release of release of entity_1 's track ? </s>
+what is the gender of entity_1 's darling 's parents ? </s>
+what is the recording of song of entity_1 's recording ? </s>
+what is the entity_1 's kid 's gender ? </s>
+what is the nation of entity_1 's parent ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the artist of tracks of entity_1 's tracks ? </s>
+what is the entity_1 's nationality 's recording ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what did entity_1 's offspring die ? </s>
+what is the place of death of entity_1 's wife 's darling ? </s>
+what is the entity_1 's husband 's religious ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the name of the husband of wife of entity_1 's husband ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the name of the sex of entity_1 's father ? </s>
+what is the name of the daughter of entity_1 's husband ? </s>
+what is the entity_1 's tracks 's releases ? </s>
+what is the job of entity_1 's child ? </s>
+what is the place of birth of entity_1 's father 's husband ? </s>
+what is the recording of entity_1 's netflix_genres 's recording ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the tracks of tracks of entity_1 's track ? </s>
+what is the name of the sex of entity_1 's darling ? </s>
+what is the entity_1 's child 's ethnicity ? </s>
+what is the entity_1 's recording 's recording ? </s>
+what is the entity_1 's country 's teams ? </s>
+what is the entity_1 's releases 's releases ? </s>
+what is the name of the religion of entity_1 's parent ? </s>
+what is the nation of entity_1 's child ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the gender of entity_1 's darling ? </s>
+what is the entity_1 's tracks 's tracks ? </s>
+what is the name of the cause of death of entity_1 's daughter ? </s>
+what is the location of entity_1 's child ? </s>
+what is the canonical_version of canonical_version of entity_1 's canonical_version ? </s>
+what is the entity_1 's child 's faith ? </s>
+what is the name of the institution of entity_1 's father ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the track of release of entity_1 's track_list ? </s>
+what is the notable_types of canonical_version of entity_1 's canonical_version ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the name of the offspring of entity_1 's daughter ? </s>
+what is the notable_types of recording of entity_1 's recording ? </s>
+what is the recording of recording of entity_1 's recording ? </s>
+what is the notable_types of tracks of entity_1 's track_list ? </s>
+what is the place of birth of entity_1 's father 's husband ? </s>
+what is the place of death of entity_1 's father 's daughter ? </s>
+what is the recording of entity_1 's genre ? </s>
+what is the has_value of entity_1 's track_list 's tracks ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
+what is the entity_1 's child 's parents ? </s>
+what is the artist of entity_1 's genre ? </s>
+what is the name of the father of entity_1 's father ? </s>
+what is the place of death of entity_1 's father 's daughter ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the name of the sex of entity_1 's mother ? </s>
+what is the book of entity_1 's place_of_birth 's book ? </s>
+what is the name of the kid of entity_1 's daughter ? </s>
+what is the tracks of tracks of entity_1 's tracks ? </s>
+what is the name of the daughter of entity_1 's father ? </s>
